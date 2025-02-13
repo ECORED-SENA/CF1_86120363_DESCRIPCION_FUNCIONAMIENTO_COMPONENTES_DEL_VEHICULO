@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'La caja de cambios manual'
