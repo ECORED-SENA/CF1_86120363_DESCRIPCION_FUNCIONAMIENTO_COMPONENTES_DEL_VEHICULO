@@ -10,7 +10,7 @@
       .col-lg-9.order-2.order-lg-1(data-aos="fade-right")
         p La caja de cambios o caja de velocidades es un conjunto fundamental para el funcionamiento del vehículo, ya que la potencia generada por el motor fluye por esta antes de llegar a las ruedas. Su función básica consiste en controlar la velocidad y el par motor disponible para las ruedas bajo diferentes condiciones de manejo.
         .row.mb-3
-          .col-xl-auto.pe-0.mb-4.mb-xl-0
+          .col-xl-auto.pe-xl-0.mb-4.mb-xl-0
             figure
               img(src="@/assets/curso/tema1/img1.png", alt="", style="width: 400px").m-auto
           .col
