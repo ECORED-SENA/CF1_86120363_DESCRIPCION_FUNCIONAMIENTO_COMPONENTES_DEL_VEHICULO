@@ -28,6 +28,10 @@
   
 .banner-principal .tarjeta
   background-position: left 50% !important
+  @media screen and ( max-width: $bp-max-lg )
+    background-image: url("../assets/curso/portada/fondo-banner-principal1.png") !important
+  @media screen and ( max-width: $bp-max-md )
+    background-image: url("../assets/curso/portada/fondo-banner-principal2.png") !important
 
 .banner-principal__row .banner-principal__img
   width: 330px !important  
@@ -79,6 +83,8 @@ figcaption
     background-image: url(../assets/curso/tema1/img2.svg)
     background-repeat: repeat-x
     background-position: center
+    @media screen and ( max-width: $bp-max-sm )
+      background-repeat: repeat
   &-c7
     background-image: url(../assets/curso/tema1/img8.png)
     background-repeat: no-repeat

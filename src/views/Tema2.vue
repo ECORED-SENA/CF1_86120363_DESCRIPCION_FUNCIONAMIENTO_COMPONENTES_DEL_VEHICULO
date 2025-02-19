@@ -48,7 +48,7 @@
         .row.h-100.align-items-center
           .col-12
             .p-4
-              p.mb-0 Los elementos más utilizados en la caja de cambios manual para transmitir el par de torsión y las revoluciones del motor son los piñones o engranajes. A continuación, se explican la relación de transmisión y los engranajes más usados en este tipo de caja.
+              p.mb-0 En este sistema, los piñones están siempre engranados. Los engranajes de salida giran libremente en el eje, y el cambio de velocidades se realiza mediante collarines y anillos sincronizadores.
     Separador
     #t_2_1
     .titulo-segundo.color-acento-contenido
@@ -59,7 +59,7 @@
         .titulo-sexto.color-acento-contenido.mb-3
           p.mb-0 #[b Figura 2.] Ejes de la caja de cambios
         figure
-          img(src="@/assets/curso/tema2/img1.svg", alt="Imagen de una caja de cambios mostrando los ejes principales: primario, intermedio y secundario, conectados a través de engranajes helicoidales.", style="width: 500px").m-auto
+          img(src="@/assets/curso/tema2/img14.png", alt="Imagen de una caja de cambios mostrando los ejes principales: primario, intermedio y secundario, conectados a través de engranajes helicoidales.", style="width: 500px").m-auto
       .col-lg-5(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema2/img4.png", alt="", style="width: 500px").m-auto
@@ -73,7 +73,7 @@
             .col-12
               p Este eje recibe el impulso del motor mediante el sistema de embrague. En su extremo inicial, está soportado por un rodamiento, mientras que en el extremo opuesto cuenta con un piñón de mando y un dentado para engranar con el collarín.
               figure
-                img(src="@/assets/curso/tema2/img6.png", alt="", style="width: 500px").m-auto
+                img(src="@/assets/curso/tema2/img6.png", alt="Diagrama de un eje primario extraído de su carcasa. La carcasa y el conjunto de engranajes están claramente identificados.", style="width: 500px").m-auto
           .row(titulo="Eje intermediario")
             .col-12
               p El movimiento del eje primario se transmite al eje intermediario. En muchas cajas de cambios, este eje es un conjunto sólido de varios piñones que giran sobre un eje con rodamientos, generalmente del tipo de rodillos. 
@@ -103,7 +103,7 @@
               .titulo-sexto.color-acento-contenido.mb-3
                 p.mb-0 #[b Figura 3.] Elementos para el cambio de marchas
               figure
-                img(src="@/assets/curso/tema2/img2.svg", alt="", style="width: 500px").m-auto
+                img(src="@/assets/curso/tema2/img15.png", alt="Esquema de los componentes internos de una transmisión, incluyendo elementos como palanca, sincronizador, piñón, collarín y eje estriado, que trabajan en conjunto para realizar los cambios de marcha.", style="width: 500px").m-auto
     Separador
     #t_2_2
     .titulo-segundo.color-acento-contenido
@@ -127,14 +127,14 @@
                     p.mb-0 En muchos casos, el anillo sincronizador está fabricado con aleaciones de bronce para resistir las altas fricciones que se producen durante su trabajo de frenado con el piñón seleccionado. El anillo sincronizador tiene en su periferia un sector dentado, generalmente con el mismo número de dientes que el sector dentado del piñón con el que trabaja, así como el mismo número de ranuras que tiene el estriado interno del collarín en el que está alojado. La superficie cónica de fricción del anillo sincronizador está diseñada con un sistema ranurado que permite el ingreso del aceite lubricante y la salida del aceite caliente, el cual alcanza altas temperaturas durante su operación.
                   .col-lg-5
                     figure
-                      img(src="@/assets/curso/tema2/img10.png", alt="", style="width: 500px").m-auto
+                      img(src="@/assets/curso/tema2/img10.png", alt="Diagrama desglosado de un sistema de transmisión, mostrando componentes como el piñón, anillo sincronizador, buje, desplazable, chavetas y muelles.", style="width: 500px").m-auto
                 .row.justify-content-center.align-items-center
                   .col-lg-5.mb-4.mb-lg-0
                     p #[b Collarín y sector dentado]
                     p.mb-0 El collarín está alojado en un sector dentado que puede desplazarse lateralmente para empujar el anillo sincronizador y engranar con el sector dentado del piñón de la marcha respectiva. Este sector dentado se fija al eje estriado de salida mediante otro estriado, lo que permite mantenerlo sólido durante su trabajo, pero también facilita su extracción para tareas de mantenimiento o reparación.
                   .col-lg-5
                     figure
-                      img(src="@/assets/curso/tema2/img11.png", alt="", style="width: 500px").m-auto
+                      img(src="@/assets/curso/tema2/img11.png", alt="Representación detallada de los elementos principales de un collarín y su conexión con el anillo sincronizador, el seguro y el eje estriado.", style="width: 500px").m-auto
     p.mb-5(data-aos="fade-down") Este sector dentado tiene cavidades en ambos lados para permitir el ingreso del anillo sincronizador y en tres sectores de su periferia cuenta con grandes ranuras que alojan las chavetas necesarias para mantener el collarín en posición neutral o en cada marcha.
     .row.mb-2.ms-0
       .col-auto.bg-c6(data-aos="fade-left")
@@ -150,7 +150,7 @@
         .titulo-sexto.color-acento-contenido.mb-3
           p.mb-0 #[b Figura 4.] Estriado del collarín, anillo sincronizador, collarín y eje estriado
         figure
-          img(src="@/assets/curso/tema2/img3.svg", alt="Esquema de una caja de cambios destacando los mecanismos para seleccionar velocidades, incluyendo horquillas, ejes, muelles.", style="width: 600px").m-auto
+          img(src="@/assets/curso/tema2/img16.png", alt="Esquema de una caja de cambios destacando los mecanismos para seleccionar velocidades, incluyendo horquillas, ejes, muelles.", style="width: 600px").m-auto
       .col-lg-4(data-aos="fade-left")
         .row.h-100.align-items-center.bg-c13
           .col-12
@@ -172,12 +172,7 @@
         .titulo-sexto.color-acento-contenido.mb-3
           p.mb-0 #[b Figura 5.] Componentes para la selección de velocidades
         figure
-          img(src="@/assets/curso/tema2/img4.svg", alt="Diagrama de un sistema de bloqueo de marchas, mostrando elementos como varillas, horquillas, pernos, muelles, esferas y pasadores que evitan el cambio accidental de velocidad.", style="width: 600px").m-auto
-      .col-lg-4(data-aos="fade-left")
-        .row.h-100.align-items-center
-          .col-12
-            figure
-              img(src="@/assets/curso/tema2/img13.png", alt="", style="width: 400px").m-auto
+          img(src="@/assets/curso/tema2/img17.png", alt="Diagrama de un sistema de bloqueo de marchas, mostrando elementos como varillas, horquillas, pernos, muelles, esferas y pasadores que evitan el cambio accidental de velocidad.", style="width: 600px").m-auto
 
 </template>
 

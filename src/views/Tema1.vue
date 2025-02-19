@@ -44,21 +44,21 @@
                     p.mb-0 En esta caja de cambios, se toma la potencia del motor que está ubicado en la parte frontal para transmitirla a las llantas traseras mediante un sistema de transmisión.
                   .col-lg-5
                     figure
-                      img(src="@/assets/curso/tema1/img4.png", alt="", style="width: 500px").m-auto
+                      img(src="@/assets/curso/tema1/img4.png", alt="Diagrama de un esquema de transmisión con motor delantero longitudinal y propulsión trasera. Se identifican componentes como motor, árbol de transmisión, embrague, caja de cambios, diferencial trasero, juntas cardán y palieres rígidos.", style="width: 500px").m-auto
                 .row.justify-content-center.align-items-center
                   .col-lg-5.mb-4.mb-lg-0
                     p #[b Motor y propulsión delantera o trasera]
                     p.mb-0 En este tipo de transmisión, la propulsión del vehículo se realiza más directamente y no cuenta con el árbol de transmisión como en el caso anterior. Además, en muchos casos, la caja de cambios tiene integrado el diferencial.
                   .col-lg-5
                     figure
-                      img(src="@/assets/curso/tema1/img5.png", alt="", style="width: 500px").m-auto
+                      img(src="@/assets/curso/tema1/img5.png", alt="Esquema de transmisión con motor delantero transversal y tracción delantera. Incluye elementos como junta elástica, cubo de rueda, caja de cambios, embrague, diferencial y palieres conectados mediante juntas homocinéticas y trípode deslizante.", style="width: 500px").m-auto
                 .row.justify-content-center.align-items-center
                   .col-lg-5.mb-4.mb-lg-0
                     p #[b Transmisión 4 x 4]
                     p.mb-0 Esta caja de cambios se utiliza en los vehículos que tienen tracción en las cuatro ruedas. Se diferencia de la caja de cambios con motor delantero y propulsión trasera en que cuenta con una caja de transferencia y un árbol de transmisión para llevar la potencia a los ejes delanteros.
                   .col-lg-5
                     figure
-                      img(src="@/assets/curso/tema1/img6.png", alt="", style="width: 500px").m-auto
+                      img(src="@/assets/curso/tema1/img6.png", alt="Representación de una transmisión 4x4 con componentes como diferencial delantero y trasero, semiejes, caja de cambios y una caja de transferencia para distribuir el movimiento hacia ambos ejes.", style="width: 500px").m-auto
     Separador
     #t_1_2
     .titulo-segundo.color-acento-contenido
@@ -104,7 +104,7 @@
                 .col-lg-auto.pe-lg-0
                   .p-4.bg-c8
                     figure
-                      img(src="@/assets/curso/tema1/img4.svg", alt="Esquema de dos engranajes en contacto, representando una relación de transmisión. El engranaje verde (Z2) es el mayor y el amarillo (Z1) es el menor, indicando sentidos de giro con flechas y las velocidades angulares correspondientes (N2 y N1).", style="width: 300px").m-auto
+                      img(src="@/assets/curso/tema1/img13.png", alt="Esquema de dos engranajes en contacto, representando una relación de transmisión. El engranaje verde (Z2) es el mayor y el amarillo (Z1) es el menor, indicando sentidos de giro con flechas y las velocidades angulares correspondientes (N2 y N1).", style="width: 300px").m-auto
                 .col-lg.ps-lg-0
                   .p-4.bg-c9.h-100
                     p En donde:
@@ -142,7 +142,7 @@
                       img(src="@/assets/curso/tema1/img10.png", alt="", style="width: 300px").m-auto
                   .col
                     .p-4
-                      p #[b Utilizando la fórmula:]
+                      p #[b #[i Utilizando la fórmula:]]
                       p.mb-0 Rt = Z1 / Z2
                       p.mb-0 Reemplazando los valores:
                       p.mb-0 Rt = 12 / 20
