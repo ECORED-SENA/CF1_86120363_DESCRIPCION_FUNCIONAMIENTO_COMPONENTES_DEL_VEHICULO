@@ -157,7 +157,7 @@
             .p-4
               figure.mb-3
                 img(src="@/assets/curso/tema2/img12.png", alt="", style="width: 120px")
-              p.mb-0 Cuando se empuja o se hala la palanca (hacia adelante o atrás), este movimiento desplaza el eje selector, el cual empuja la horquilla correspondiente a las marchas seleccionadas, por ejemplo, el eje de la primera y segunda velocidades, el eje de la tercera y cuarta velocidades, o el eje de la quinta velocidad y marcha atrás, que es la disposición más común en un vehículo.
+              p.mb-0 Cuando se empuja o se hala la palanca (hacia adelante o atrás), este movimiento desplaza el eje selector, el cual empuja la horquilla correspondiente a las marchas seleccionadas, por ejemplo, el eje de la primera y segunda velocidad, el eje de la tercera y cuarta velocidad, o el eje de la quinta velocidad y marcha atrás, que es la disposición más común en un vehículo.
     .row.mb-2.ms-0
       .col-auto.bg-c6(data-aos="fade-left")
         .row.align-items-center
