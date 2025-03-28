@@ -22,6 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> Identificar  los componentes, tipos, funciones y conceptos clave de la caja de cambios manual en vehículos, para reforzar el aprendizaje técnico y práctico relacionado con su funcionamiento y mantenimiento.',
       barajarPreguntas: true,
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: '¡VUELVA A INTENTARLO!',
       preguntas: [
         {
           id: 1,

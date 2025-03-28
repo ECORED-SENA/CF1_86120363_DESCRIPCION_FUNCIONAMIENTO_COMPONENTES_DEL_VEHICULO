@@ -252,7 +252,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción Huila',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Dirección General',
         },
       ],
